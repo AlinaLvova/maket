@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/AlinaLvova/maket/issues"
   },
-  "homepage": "https://github.com/AlinaLvova/maket#readme",
+  "homepage": "https://alinalvova.github.io/maket",
   "devDependencies": {
     "@babel/core": "^7.21.4",
     "@babel/preset-env": "^7.21.4",
