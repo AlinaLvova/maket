@@ -1,0 +1,11 @@
+.description__title-under {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: right;
+    width: 130px;
+    margin: 0;
+    margin-top: 6px;
+}
