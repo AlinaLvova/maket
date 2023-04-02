@@ -1,0 +1,8 @@
+.footer__menu{
+    display: grid;
+    row-gap:1px;
+    column-gap: 50px;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1.6fr;
+    justify-items: start;
+}

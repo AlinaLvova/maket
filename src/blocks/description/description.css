@@ -1,5 +1,6 @@
 .description{
     margin: 144px 149px 0 0;
     display: flex;
+    gap: 24px;
     flex-direction: column;
 }

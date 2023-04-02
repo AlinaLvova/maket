@@ -1,0 +1,10 @@
+.nav-links{
+    margin: 0 auto;
+    padding: 0;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    gap:30px;
+    justify-content: space-between;
+    align-items: center;
+}
