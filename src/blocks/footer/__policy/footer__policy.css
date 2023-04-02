@@ -1,0 +1,10 @@
+.footer__policy {
+    margin: 8px;
+    text-align: right;
+    font-size: 12px;
+    line-height: 15px;
+}
+
+.footer__policy.link{
+    text-decoration: underline;
+}

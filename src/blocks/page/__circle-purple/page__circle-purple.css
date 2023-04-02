@@ -8,4 +8,5 @@
     /* opacity: 0.5; */
     filter: blur(196px);
     border-radius: 50%;
+    z-index: -1;
 }

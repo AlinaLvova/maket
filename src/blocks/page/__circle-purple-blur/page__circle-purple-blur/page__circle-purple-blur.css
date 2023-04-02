@@ -1,13 +1,13 @@
-.page__circle-purple-blur{
-    
-position: absolute;
-width: 311px;
-height: 311px;
-left: -102px;
-top: 251px;
+.page__circle-purple-blur {
+    position: absolute;
+    width: 311px;
+    height: 311px;
+    left: -102px;
+    top: 251px;
 
-background: #961A1A;
-/* opacity: 0.5; */
-filter: blur(196px);
-border-radius: 50%;
+    background: #961A1A;
+    /* opacity: 0.5; */
+    filter: blur(196px);
+    border-radius: 50%;
+    z-index: -1;
 }

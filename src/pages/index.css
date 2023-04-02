@@ -33,9 +33,11 @@
 @import url(../blocks/footer/__menu/footer__menu.css);
 @import url(../blocks/footer/__ul/footer__ul.css);
 @import url(../blocks/footer/__title/footer__title.css);
+@import url(../blocks/footer/__messengers/footer__messengers.css);
+@import url(../blocks/footer/__policy/footer__policy.css);
+@import url(../blocks/footer/__rights/footer__rights.css);
 
 @import url(../blocks/nav-links/nav-links.css);
-@import url(../blocks/footer/__messengers/footer__messengers.css);
 
 @import url(../blocks/header/__logo-img/header__logo-img.css);
 @import url(../blocks/header/__logo-text/header__logo-text.css);
